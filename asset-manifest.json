@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/payees-for-ynab/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/payees-for-ynab/static/js/main.88dfecf0.chunk.js",
+    "main.js.map": "/payees-for-ynab/static/js/main.88dfecf0.chunk.js.map",
+    "runtime-main.js": "/payees-for-ynab/static/js/runtime-main.9d061722.js",
+    "runtime-main.js.map": "/payees-for-ynab/static/js/runtime-main.9d061722.js.map",
+    "static/js/2.8edf4908.chunk.js": "/payees-for-ynab/static/js/2.8edf4908.chunk.js",
+    "static/js/2.8edf4908.chunk.js.map": "/payees-for-ynab/static/js/2.8edf4908.chunk.js.map",
+    "static/js/3.664d0c8d.chunk.js": "/payees-for-ynab/static/js/3.664d0c8d.chunk.js",
+    "static/js/3.664d0c8d.chunk.js.map": "/payees-for-ynab/static/js/3.664d0c8d.chunk.js.map",
+    "index.html": "/payees-for-ynab/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/payees-for-ynab/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8edf4908.chunk.js.LICENSE.txt": "/payees-for-ynab/static/js/2.8edf4908.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/payees-for-ynab/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d061722.js",
+    "static/js/2.8edf4908.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.88dfecf0.chunk.js"
+  ]
+}
